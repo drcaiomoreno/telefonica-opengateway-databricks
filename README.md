@@ -18,9 +18,11 @@ Learn more: https://www.databricks.com/company/about-us <BR>
 
 ### Open Gateway + Databricks Demo:
 Demo scope:
-Step 1: Ingest data from Open Gateway API
-Step 2: Write data from Open Gateway API to a Delta Table in the Databricks Lakehouse Platform. 
-Step 3: Share the data using Databricks Delta Sharing with external organisations. 
+* Step 1: Ingest data from Open Gateway API
+
+* Step 2: Write data from Open Gateway API to a Delta Table in the Databricks Lakehouse Platform. 
+
+* Step 3: Share the data using Databricks Delta Sharing with external organisations. 
 
 
 
