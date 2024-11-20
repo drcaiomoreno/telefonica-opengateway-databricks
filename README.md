@@ -1,6 +1,6 @@
 # Open Gateway Databricks
 
-The aim of this repo is to help developers to connect with Open Gateway APIs using Databricks. 
+The aim of this repo is to help developers to connect with Open Gateway APIs using Databricks and explore the data using the Databricks Lakehouse Platform.  
 
 ### What is Open Gateway?
 Open Gateway is a initiative spearheaded by the GSMA in collaboration with leading telecommunications operators, cloud providers, and aggregators worldwide. Our mission is to create a standardized framework of Application Programming Interfaces (APIs) that enable simplified and universal access to cutting-edge mobile network capabilities and associated services. By leveraging Open Gateway APIs, developers can focus on building exceptional applications while we handle the complexities of network integration.
