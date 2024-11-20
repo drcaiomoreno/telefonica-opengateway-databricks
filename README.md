@@ -25,8 +25,6 @@ Demo scope:
 * Step 3: Share the data using Databricks Delta Sharing with external organisations. 
 
 
-
-
 ### Open Gateway: Sandbox 
 https://opengateway.telefonica.com/en/profile/technical-toolbox/sandbox<BR>
 
@@ -40,3 +38,5 @@ https://opengateway.telefonica.com/en/profile<BR>
 https://opengateway.telefonica.com/en/profile/technical-toolbox/sandbox<BR>
 https://opengateway.telefonica.com/partner-program<BR>
 https://opengateway.telefonica.com/recursos/multimedia/webinar/como-hacer-llamadas-apis-open-gateway<BR>
+https://www.gsma.com/solutions-and-impact/gsma-open-gateway/<BR>
+
