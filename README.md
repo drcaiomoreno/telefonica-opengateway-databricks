@@ -3,10 +3,11 @@
 The aim of this repo is to help developers to connect with Open Gateway APIs using Databricks. 
 
 ### Sandbox
-https://opengateway.telefonica.com/en/profile/technical-toolbox/sandbox
+https://opengateway.telefonica.com/en/profile/technical-toolbox/sandbox<BR>
 
 ### Docs
-https://developers.opengateway.telefonica.com/reference/authorize
+https://developers.opengateway.telefonica.com/docs/initiative<BR>
+https://developers.opengateway.telefonica.com/reference/authorize<BR>
 
 ### Links:
 https://sandbox.opengateway.telefonica.com/<BR>
