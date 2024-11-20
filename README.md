@@ -7,6 +7,15 @@ Open Gateway is a initiative spearheaded by the GSMA in collaboration with leadi
 
 Learn more: https://developers.opengateway.telefonica.com/docs/initiative
 
+### What is Databricks? 
+Databricks is the data and AI company.<BR>
+
+With the Data Intelligence Platform, Databricks democratizes insights to everyone in an organization. Built on an open lakehouse architecture, the Data Intelligence Platform provides a unified foundation for all data and governance, combined with AI models tuned to an organization’s unique characteristics. Now, anyone in an organization can benefit from automation and natural language to discover and use data like experts, and technical teams can easily build and deploy secure data and AI apps and products.<BR>
+
+With origins in academia and the open source community, Databricks was founded in 2013 by the original creators of the lakehouse architecture and open source projects Apache Spark™, Delta Lake, MLflow and Unity Catalog. <BR><BR>
+
+Learn more: https://www.databricks.com/company/about-us
+
 ### Sandbox
 https://opengateway.telefonica.com/en/profile/technical-toolbox/sandbox<BR>
 
