@@ -1,4 +1,4 @@
-# Open Gateway Databricks
+# Open Gateway + Databricks
 
 The aim of this repo is to help developers to connect with Open Gateway APIs using Databricks and explore the data using the Databricks Lakehouse Platform.  
 
