@@ -17,8 +17,11 @@ With origins in academia and the open source community, Databricks was founded i
 Learn more: https://www.databricks.com/company/about-us <BR>
 
 ### Open Gateway + Databricks Demo:
-Demo scope:
-* Step 1: Query the Telefonica Open Gateway API using Databricks
+Demo scope (Open Gateway API using Databricks):
+* Open Gateway API using Databricks
+  * Get authorized with CIBA
+  * KyC code example
+  * SIM Swap code example
 
 ### Open Gateway: Sandbox 
 https://opengateway.telefonica.com/en/profile/technical-toolbox/sandbox<BR>
