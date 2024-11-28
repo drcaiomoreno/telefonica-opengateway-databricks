@@ -35,3 +35,6 @@ https://opengateway.telefonica.com/partner-program<BR>
 https://opengateway.telefonica.com/recursos/multimedia/webinar/como-hacer-llamadas-apis-open-gateway<BR>
 https://www.gsma.com/solutions-and-impact/gsma-open-gateway/<BR>
 
+### Credits 
+- Telefónica Open Gateway Team
+- Databricks Telefónica Spain Team
