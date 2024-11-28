@@ -30,6 +30,9 @@ https://opengateway.telefonica.com/en/profile/technical-toolbox/sandbox<BR>
 https://developers.opengateway.telefonica.com/docs/initiative<BR>
 https://developers.opengateway.telefonica.com/reference/authorize<BR>
 
+### Open Gateway: Postman 
+https://github.com/Telefonica/opengateway-postman
+
 ### Open Gateway: Links:
 https://sandbox.opengateway.telefonica.com/<BR>
 https://opengateway.telefonica.com/en/profile<BR>
