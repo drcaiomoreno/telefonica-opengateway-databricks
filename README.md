@@ -1,9 +1,9 @@
-# Open Gateway + Databricks
+# Telefonica Open Gateway + Databricks
 
-The aim of this repo is to help developers to connect with Open Gateway APIs using Databricks and explore the data using the Databricks Lakehouse Platform.  
+The aim of this repo is to help developers to connect with Telefonica Open Gateway APIs using Databricks and explore the data using the Databricks Lakehouse Platform.  
 
-### What is Open Gateway?
-Open Gateway is a initiative spearheaded by the GSMA in collaboration with leading telecommunications operators, cloud providers, and aggregators worldwide. Our mission is to create a standardized framework of Application Programming Interfaces (APIs) that enable simplified and universal access to cutting-edge mobile network capabilities and associated services. By leveraging Open Gateway APIs, developers can focus on building exceptional applications while we handle the complexities of network integration.
+### What is Telefonica Open Gateway?
+Telefonica Open Gateway is a initiative spearheaded by the GSMA in collaboration with leading telecommunications operators, cloud providers, and aggregators worldwide. Our mission is to create a standardized framework of Application Programming Interfaces (APIs) that enable simplified and universal access to cutting-edge mobile network capabilities and associated services. By leveraging Open Gateway APIs, developers can focus on building exceptional applications while we handle the complexities of network integration.
 
 Learn more: https://developers.opengateway.telefonica.com/docs/initiative
 
@@ -16,24 +16,24 @@ With origins in academia and the open source community, Databricks was founded i
 
 Learn more: https://www.databricks.com/company/about-us <BR>
 
-### Open Gateway + Databricks Demo:
+### Telefonica Open Gateway + Databricks Demo:
 Demo scope (Open Gateway API using Databricks):
-* Open Gateway API using Databricks
+* Telefonica Open Gateway API using Databricks
   * Get authorized with CIBA
   * KyC code example
   * SIM Swap code example
 
-### Open Gateway: Sandbox 
+### Telefonica Open Gateway: Sandbox 
 https://opengateway.telefonica.com/en/profile/technical-toolbox/sandbox<BR>
 
-### Open Gateway: Docs
+### Telefonica Open Gateway: Docs
 https://developers.opengateway.telefonica.com/docs/initiative<BR>
 https://developers.opengateway.telefonica.com/reference/authorize<BR>
 
-### Open Gateway: Postman 
+### Telefonica Open Gateway: Postman 
 https://github.com/Telefonica/opengateway-postman
 
-### Open Gateway: Links:
+### Telefonica Open Gateway: Links:
 https://sandbox.opengateway.telefonica.com/<BR>
 https://opengateway.telefonica.com/en/profile<BR>
 https://opengateway.telefonica.com/en/profile/technical-toolbox/sandbox<BR>
