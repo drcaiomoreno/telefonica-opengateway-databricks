@@ -2,6 +2,8 @@
 
 The aim of this repo is to help developers to connect with Telefonica Open Gateway APIs using Databricks and explore the data using the Databricks Lakehouse Platform.  
 
+Learn more: https://caiomsouza.medium.com/telefonica-open-gateway-databricks-4d495a2c3a6d
+
 ### What is Telefonica Open Gateway?
 Telefonica Open Gateway is a initiative spearheaded by the GSMA in collaboration with leading telecommunications operators, cloud providers, and aggregators worldwide. Our mission is to create a standardized framework of Application Programming Interfaces (APIs) that enable simplified and universal access to cutting-edge mobile network capabilities and associated services. By leveraging Open Gateway APIs, developers can focus on building exceptional applications while we handle the complexities of network integration.
 
