@@ -46,3 +46,6 @@ https://www.gsma.com/solutions-and-impact/gsma-open-gateway/<BR>
 ### Credits 
 - Telefónica Open Gateway Team
 - Databricks Telefónica Spain Team
+
+### Telefónica España's transformation with Microsoft Azure: Enhancing network performance through big data and AI
+https://www.microsoft.com/en/customers/story/21150-telefonica-group-spain-azure-ai-and-machine-learning#section-block-body
