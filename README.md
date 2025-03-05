@@ -47,5 +47,9 @@ https://www.gsma.com/solutions-and-impact/gsma-open-gateway/<BR>
 - Telefónica Open Gateway Team
 - Databricks Telefónica Spain Team
 
+### Chema Alonso talk about Telefonica Open Gateway at MWC2025
+Spanish version: https://lnkd.in/dvQsRvDc <BR>
+English version: https://lnkd.in/daSaSKjP <BR>
+
 ### Telefónica España's transformation with Microsoft Azure: Enhancing network performance through big data and AI
 https://www.microsoft.com/en/customers/story/21150-telefonica-group-spain-azure-ai-and-machine-learning#section-block-body
